@@ -1,3 +1,3 @@
-raksts = input("Write the shit: ")
+raksts = input("Write your name: ")
 with open("name.txt", "w") as theshit:
     theshit.write(raksts)
